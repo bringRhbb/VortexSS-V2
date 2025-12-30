@@ -519,3 +519,5 @@ function detectarBypassShell() {
             if ($diferencaAtual > 86400 || $diferencaInterna > 300) {
                 echo $bold . $vermelho . "[!] BYPASS DETECTADO";}
 }
+}
+}
